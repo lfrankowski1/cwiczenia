@@ -1,2 +1,2 @@
 # pjatkLab1
-opis pjatkLab1
+hello welcome ;D
